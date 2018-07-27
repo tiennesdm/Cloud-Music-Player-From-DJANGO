@@ -1,0 +1,15 @@
+body{
+  background-color:white;
+}
+.navbar{
+  border-radius: 0;
+
+
+}
+.navbar-brand{
+  font-family: Open+Sans,cursive;
+
+}
+.nav{
+  background-color: red;
+}
