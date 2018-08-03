@@ -2,4 +2,4 @@
 dynamic web application from django 
 ###### django==1.11
 ###### pillow
-## developed in 2018
+## developed in april, 2018 
